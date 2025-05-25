@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2ce0cc4a.css",
-    "main.js": "/static/js/main.4dffb75c.js",
+    "main.js": "/static/js/main.fbce3333.js",
     "static/js/5816.99084368.chunk.js": "/static/js/5816.99084368.chunk.js",
     "static/js/1041.8423ae17.chunk.js": "/static/js/1041.8423ae17.chunk.js",
     "static/js/7172.558b4cf6.chunk.js": "/static/js/7172.558b4cf6.chunk.js",
@@ -81,8 +81,8 @@
     "static/js/7875.4cff7b0b.chunk.js": "/static/js/7875.4cff7b0b.chunk.js",
     "static/js/2045.9b02c09e.chunk.js": "/static/js/2045.9b02c09e.chunk.js",
     "static/js/743.b57ce332.chunk.js": "/static/js/743.b57ce332.chunk.js",
-    "static/css/8070.4a6cf370.chunk.css": "/static/css/8070.4a6cf370.chunk.css",
-    "static/js/8070.7caa9720.chunk.js": "/static/js/8070.7caa9720.chunk.js",
+    "static/css/1048.0e0bd317.chunk.css": "/static/css/1048.0e0bd317.chunk.css",
+    "static/js/1048.6431265d.chunk.js": "/static/js/1048.6431265d.chunk.js",
     "static/js/2488.9aa8c818.chunk.js": "/static/js/2488.9aa8c818.chunk.js",
     "static/js/7171.0e3e7bea.chunk.js": "/static/js/7171.0e3e7bea.chunk.js",
     "static/js/9126.b0836175.chunk.js": "/static/js/9126.b0836175.chunk.js",
@@ -94,13 +94,12 @@
     "static/js/5084.29eebd93.chunk.js": "/static/js/5084.29eebd93.chunk.js",
     "static/media/King of Gotcha.png": "/static/media/King of Gotcha.3d51753dbdea234a9f27.png",
     "static/media/Duke of Gotcha.png": "/static/media/Duke of Gotcha.41f5f07bf3be6c540676.png",
-    "static/media/Lord of GOTCHA.png": "/static/media/Lord of GOTCHA.d27b7eae7f1a321ea45f.png",
-    "static/media/Npc of Gotcha - Copy.png": "/static/media/Npc of Gotcha - Copy.976fa8d93c23ff6e4467.png",
+    "static/media/Lord of Gotcha.png": "/static/media/Lord of Gotcha.d27b7eae7f1a321ea45f.png",
+    "static/media/Npc of Gotcha.png": "/static/media/Npc of Gotcha.976fa8d93c23ff6e4467.png",
     "static/media/Knight of Gotcha.png": "/static/media/Knight of Gotcha.caaa990ca59f6be8a221.png",
     "static/media/Squire of Gotcha.png": "/static/media/Squire of Gotcha.ca2f7f0a84ac9a845f3a.png",
     "static/media/Kalam.ttf": "/static/media/Kalam.df7f4b47ef08df08a334.ttf",
     "static/media/mont.ttf": "/static/media/mont.e20d5327f1a05620c084.ttf",
-    "static/media/Icon_256_Coin_05.png": "/static/media/Icon_256_Coin_05.5e88435756ccfaf6f507.png",
     "static/media/WendyOne-Regular.ttf": "/static/media/WendyOne-Regular.63e47643d58b20318804.ttf",
     "static/media/logoNew.png": "/static/media/logoNew.e53720e4783dd4125a46.png",
     "static/media/THEBOLDFONT-FREEVERSION.ttf": "/static/media/THEBOLDFONT-FREEVERSION.35d115dae50a893710a4.ttf",
@@ -108,7 +107,7 @@
     "static/media/index.cjs": "/static/media/index.d5b35ece7c425af5eaae.cjs",
     "index.html": "/index.html",
     "main.2ce0cc4a.css.map": "/static/css/main.2ce0cc4a.css.map",
-    "main.4dffb75c.js.map": "/static/js/main.4dffb75c.js.map",
+    "main.fbce3333.js.map": "/static/js/main.fbce3333.js.map",
     "5816.99084368.chunk.js.map": "/static/js/5816.99084368.chunk.js.map",
     "1041.8423ae17.chunk.js.map": "/static/js/1041.8423ae17.chunk.js.map",
     "1763.c89fe955.chunk.js.map": "/static/js/1763.c89fe955.chunk.js.map",
@@ -185,8 +184,8 @@
     "6759.87ca85e2.chunk.js.map": "/static/js/6759.87ca85e2.chunk.js.map",
     "2045.9b02c09e.chunk.js.map": "/static/js/2045.9b02c09e.chunk.js.map",
     "743.b57ce332.chunk.js.map": "/static/js/743.b57ce332.chunk.js.map",
-    "8070.4a6cf370.chunk.css.map": "/static/css/8070.4a6cf370.chunk.css.map",
-    "8070.7caa9720.chunk.js.map": "/static/js/8070.7caa9720.chunk.js.map",
+    "1048.0e0bd317.chunk.css.map": "/static/css/1048.0e0bd317.chunk.css.map",
+    "1048.6431265d.chunk.js.map": "/static/js/1048.6431265d.chunk.js.map",
     "2488.9aa8c818.chunk.js.map": "/static/js/2488.9aa8c818.chunk.js.map",
     "7171.0e3e7bea.chunk.js.map": "/static/js/7171.0e3e7bea.chunk.js.map",
     "9126.b0836175.chunk.js.map": "/static/js/9126.b0836175.chunk.js.map",
@@ -199,6 +198,6 @@
   },
   "entrypoints": [
     "static/css/main.2ce0cc4a.css",
-    "static/js/main.4dffb75c.js"
+    "static/js/main.fbce3333.js"
   ]
 }
